@@ -1,0 +1,12 @@
+.vscode/*
+!.vscode/launch.json
+*/**/.vscode
+HELP.md
+build
+
+### Mac OS ###
+.DS_Store
+
+### C++ ###
+CMakeUserPresets.json
+vcpkg_installed
